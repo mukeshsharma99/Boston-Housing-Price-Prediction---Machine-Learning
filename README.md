@@ -18,7 +18,7 @@ This is a **supervised regression problem**, and we'll approach it using differe
 
 ## 🔍 Dataset Details
 
-- 📦 Source: `sklearn.datasets.load_boston()` *(Note: Deprecated in newer versions)*
+- 📦 Source: `sklearn.datasets.load_boston()` *(Note: Deprecated in newer versions)* 
 - 📌 Features include:
   - CRIM – Crime rate
   - RM – Number of rooms
