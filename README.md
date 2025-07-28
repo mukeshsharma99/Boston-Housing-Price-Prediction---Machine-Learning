@@ -7,7 +7,7 @@ This project focuses on building a **machine learning model** that predicts **ho
 We use the classic **Boston Housing dataset** available in **Scikit-learn** to train and evaluate multiple regression models.
 
 ---
-
+ 
 ## 🎯 Problem Statement
 
 Given a set of attributes describing homes in various suburbs of Boston, the goal is to predict the **median house price**.
